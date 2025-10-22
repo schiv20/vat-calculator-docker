@@ -4,15 +4,15 @@
 }
 
 .colour-border{
-  border: 3px solid navy;
+  border: 3px solid rgb(26, 212, 63);
   padding: 10px;
 }
 
 .header{
-  padding: 10px;
+  padding: 200px;
 }
 
 body{
   padding: 10px;
-  background-color: paleturquoise;
+  background-color: rgb(62, 5, 220);
 }
